@@ -1,5 +1,5 @@
 {
     "KC_Settings_Json_File_Update_LinkUrl": "https://github.com/FujinoNs/File/raw/main/htdocs.zip",
-	"KC_Settings_Json_File_Update_Version": "1.1.1.0",
-    "KC_Settings_Json_File_Update_Text": "ปรับปรุงคำอธิบายบางส่วน"
+	"KC_Settings_Json_File_Update_Version": "2.0.0.0",
+    "KC_Settings_Json_File_Update_Text": "เพิ่มการตั้งค่าสำหรับ KC Launcher V8.6 และ V7.7, เพิ่มหมวดหมู่ Steam"
 }
